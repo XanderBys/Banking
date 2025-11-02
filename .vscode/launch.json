@@ -1,0 +1,13 @@
+{
+    "version": "0.0.1",
+    "configurations": [
+        {
+            "name": "Run banking.py",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/src/banking.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
